@@ -7,7 +7,6 @@ struct Song {
     std::string artist;
     std::string album;
     int duration;
-    
-    Song()
-        : id(0), duration(0) {}   
+
+    Song() : id(0), duration(0) {}
 };
