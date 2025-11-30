@@ -1,0 +1,45 @@
+# Build directories
+/build/
+/bin/
+/lib/
+/out/
+/.vscode/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pch
+*.pdb
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
